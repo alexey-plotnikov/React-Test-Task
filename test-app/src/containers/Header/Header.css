@@ -1,0 +1,21 @@
+.header-container-wrapper {
+    margin: auto;
+    width: 700px;
+}
+
+.header-container-wrapper input{
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.button-wrapper {
+    padding-top: 25px;
+}
+
+.button-wrapper button {
+    display: block;
+}
+
+.confirm-button {
+    margin-bottom: 10px;
+}

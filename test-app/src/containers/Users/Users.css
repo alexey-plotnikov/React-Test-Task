@@ -1,0 +1,38 @@
+.active {
+    color: black;
+}
+
+.inactive {
+    color: grey;
+}
+
+.user-list li{
+    list-style-type: none;
+}
+
+.user-list li:hover{
+    cursor: pointer;
+    background: grey; /* Цвет фона под ссылкой */ 
+    color: #ffe; /* Цвет ссылки */ 
+}
+
+.user-list-title {
+    padding-left: 15px;
+}
+
+.user-container-wrapper {
+    width: 700px;
+    margin: auto;
+    padding: 0; 
+}
+
+.user-row-wrapper {
+    margin-left: -25px;
+    margin-right: 0;
+}
+
+.user-col-wrapper {
+    text-align: center;
+    margin: 0;
+    padding: 5px;
+}
